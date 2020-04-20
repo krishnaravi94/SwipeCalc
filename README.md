@@ -1,0 +1,2 @@
+# SwipeCalc
+ A swipable calculator
