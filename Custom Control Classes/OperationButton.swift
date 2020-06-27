@@ -12,7 +12,6 @@ class OperationButton: BaseButton{
     
         override init(frame: CGRect) {
             super.init(frame: frame)
-    //        self.initialize()
             super.initialize()
         }
         

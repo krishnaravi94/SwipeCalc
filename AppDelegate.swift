@@ -16,7 +16,7 @@ class AppDelegate: UIResponder, UIApplicationDelegate {
 
     func application(_ application: UIApplication, didFinishLaunchingWithOptions launchOptions: [UIApplication.LaunchOptionsKey: Any]?) -> Bool {
         // Override point for customization after application launch.
-        let navigationController = UINavigationController(rootViewController: CalculatorController())
+        let navigationController = UINavigationController(rootViewController: SwipeCalcController())
                     navigationController.isNavigationBarHidden = true
                     window = UIWindow(frame: UIScreen.main.bounds)
                     window?.rootViewController = navigationController

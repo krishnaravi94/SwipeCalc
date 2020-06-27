@@ -8,7 +8,7 @@
 
 import UIKit
 
-class CalculatorController: UIViewController {
+class SwipeCalcController: UIViewController {
 
     //MARK:- UI Elements Declaration
     var numberDisplayTextField : UITextField = {

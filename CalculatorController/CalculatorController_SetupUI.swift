@@ -7,7 +7,7 @@
 //
 
 import UIKit
-extension CalculatorController{
+extension SwipeCalcController{
     
     func setupUI(){
         
